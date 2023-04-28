@@ -1,0 +1,2 @@
+2023-01-10 02:00:09 INFO python main.py --data=ml10m --lr=1e-3 --hyperParamIndex=0 
+2023-01-10 14:51:29 INFO python main.py --data=ml10m --lr=1e-4 --hyperParamIndex=1 
