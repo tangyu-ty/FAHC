@@ -26,6 +26,8 @@ conda install scipy==1.9.3
 
 ## Datasets
 We utilized three datasets to evaluate HCCF: Yelp, MovieLens, and Amazon. Following the common settings of implicit feedback, if user has rated item , then the element is set as 1, otherwise 0. We filtered out users and items with too few interactions. The datasets are divided into training set, validation set and testing set by 7:1:2.
+
+For more information, please refer to https://github.com/akaxlh/HCCF .
 ## How to Run the Code
 Please unzip the datasets first.Here is an example of a yelp dataset
 ```bash
