@@ -24,7 +24,7 @@ Please unzip the datasets first.Here is an example of a yelp dataset
 ```bash
 python main.py --data=yelp
 ```
-Detailed hyperparameter in `Params.py`
+More detail hyperparameter in `Params.py`
 
 
 ## others
