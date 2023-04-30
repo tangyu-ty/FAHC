@@ -5,16 +5,7 @@ Frequency Adaptive Hypergraph Constraint for Collaborative Filtering(FAHC) devis
 To solve the issue of difficulty in capturing signals with different frequency for conventional graph neural networks, and a new loss is proposed to improve recommendation performance in collaborative filtering.
 
 
-## Citation
-If you want to use our codes and datasets in your research, please cite:
-```text
-@inproceedings{hccf2022,
-  author    = {xxx},
-  title     = {xxx},
-  booktitle = {xxx},
-  year      = {xxx},
-}
-```
+
 
 ## Environment
 The codes of FAHC are implemented and tested under the following development environment:
